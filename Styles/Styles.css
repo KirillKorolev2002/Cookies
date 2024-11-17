@@ -47,7 +47,7 @@ body {
     padding: 40px 0;
 }
 
-.header.container {
+.header .container {
     display: flex;
     align-items: center;
 }
@@ -88,7 +88,7 @@ body {
 }
 
 .main-title {
-    font-family: 'Steppe-Book', sans-serif;
+    font-family: 'Steppe-ExtraBold', sans-serif;
     font-size: 90px;
     line-height: 100px;
     margin-bottom: 20px;
